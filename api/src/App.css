@@ -1,0 +1,30 @@
+.App {
+  margin: 10px;
+}
+
+
+.search {
+  border: 1px solid rgb(185, 185, 185);
+  padding: 1px;
+  border-radius: 5px;
+}
+
+.search form {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.search form label {
+  margin-bottom: 5px;
+}
+
+.imageList {
+  columns: 250px 5;
+  column-gap: 10px;
+}
+
+.imgList {
+  width: 100%;
+  margin-bottom: 10px;
+}
